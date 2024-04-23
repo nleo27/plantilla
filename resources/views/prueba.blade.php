@@ -15,7 +15,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <p>No tienes periodos registrados.</p>
+                        <p>No tienes periodos registrados.aqui en donde hemos cargado</p>
                     </div>
                 </div>
             </div>
